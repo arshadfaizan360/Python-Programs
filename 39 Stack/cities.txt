@@ -1,0 +1,200 @@
+London,7074265,49.12
+Birmingham,1020589,49.42
+Leeds,726939,49.43
+Glasgow,616430,47.73
+Sheffield,530375,49.73
+Bradford,483422,49.32
+Liverpool,467995,48.80
+Edinburgh,448850,48.29
+Manchester,430818,49.33
+Bristol,399633,49.59
+Kirklees,388807,49.17
+Fife,349300,48.44
+Wirral,329179,47.89
+North Lanarkshire,325940,48.58
+Wakefield,317342,49.53
+Cardiff,315040,49.09
+Dudley,312194,49.62
+Wigan,309786,49.50
+East Riding,308689,48.87
+South Lanarkshire,307450,48.37
+Coventry,306503,49.43
+Belfast,297300,50.01
+Leicester,294830,49.64
+Sunderland,294261,48.79
+Sandwell,292196,49.09
+Doncaster,291804,49.28
+Stockport,291080,48.55
+Sefton,289739,47.75
+Nottingham,283969,49.38
+Newcastle-upon-Tyne,282338,49.19
+Kingston-upon-Hull,266775,49.63
+Bolton,265449,49.30
+Walsall,262593,49.55
+Plymouth,255826,49.20
+Rotherham,255342,49.49
+Stoke-on-Trent,254438,49.57
+Wolverhampton,244453,49.28
+Rhondda Cynon Taff,240117,49.40
+South Gloucestershire,235129,50.01
+Derby,233708,49.59
+Swansea,230180,49.04
+Salford,229179,49.56
+Aberdeenshire,227430,49.70
+Barnsley,227213,49.14
+Tameside,220722,49.39
+Oldham,220172,48.95
+Trafford,218893,49.05
+Aberdeen,217260,48.88
+Southampton,214859,50.42
+Highland,208700,49.06
+Rochdale,207563,49.09
+Solihull,203922,48.89
+Gateshead,200968,48.88
+Milton Keynes,197131,49.85
+North Tyneside,193619,47.97
+Calderdale,192844,48.79
+Northampton,192382,49.30
+Portsmouth,190370,50.96
+Warrington,189012,49.59
+North Somerset,185340,48.68
+Bury,181873,49.54
+Luton,181468,50.15
+St Helens,179483,49.19
+Stockton-on-Tees,179009,49.20
+Renfrewshire,178550,48.28
+York,175095,48.75
+Thamesdown,174598,49.93
+Southend-on-Sea,172266,48.13
+New Forest,169513,48.40
+Caerphilly,169125,49.11
+Carmarthenshire,169108,48.65
+Bath & North East Somerset,164725,48.77
+Wycombe,164045,49.87
+Basildon,163280,49.24
+Bournemouth,160749,47.46
+Peterborough,158674,49.95
+North East Lincolnshire,158503,48.97
+Chelmsford,156601,49.26
+Brighton,156124,49.22
+South Tyneside,156078,48.69
+Charnwood,155724,49.92
+Aylesbury Vale,154927,49.73
+Colchester,154176,49.35
+Knowsley,154053,48.58
+North Lincolnshire,152767,49.39
+Huntingdonshire,152742,49.35
+Macclesfield,152604,48.86
+Blackpool,152459,48.46
+West Lothian,150770,49.20
+South Somerset,150710,48.87
+Dundee,150250,47.75
+Basingstoke & Deane,147914,49.67
+Harrogate,147635,47.66
+Dumfries & Galloway,147600,48.58
+Middlesbrough,146778,48.97
+Flintshire,144918,49.30
+Rochester-upon-Medway,144478,49.40
+The Wrekin,144154,49.60
+Newbury,143727,49.67
+Falkirk,143040,48.57
+Reading,142851,50.62
+Wokingham,142361,50.53
+Windsor & Maidenhead,141548,49.73
+Maidstone,140664,49.23
+Redcar & Cleveland,139785,48.98
+North Ayrshire,139520,48.14
+Blackburn,139491,49.25
+Neath Port Talbot,139459,48.81
+Poole,139226,48.40
+Wealden,138030,47.73
+Arun,137978,47.52
+Bedford,137451,49.82
+Oxford,137343,50.40
+Lancaster,136948,48.61
+Newport,136789,48.86
+Canterbury,136481,48.67
+Preston,134818,49.84
+Dacorum,134733,49.29
+Cherwell,132687,49.28
+Perth & Kinross,132570,48.23
+Thurrock,132283,49.75
+Tendring,132265,47.53
+Kings Lynn & West Norfolk,131214,49.20
+St Albans,130267,49.42
+Bridgend,130080,48.47
+South Cambridgeshire,128422,49.44
+Braintree,126236,49.51
+Norwich,126221,49.02
+Thanet,125543,47.45
+Isle of Wight,125466,48.19
+Mid Sussex,125329,49.30
+South Oxfordshire,124637,49.32
+Guildford,124567,49.39
+Elmbridge,124539,48.42
+Stafford,124531,49.51
+Powys,124418,49.65
+East Hertfordshire,123553,50.00
+Torbay,123413,46.94
+Wrexham Maelor,123308,48.51
+East Devon,123105,46.90
+East Lindsey,123058,48.27
+Halton,123038,49.15
+Warwick,122506,49.16
+East Ayrshire,122350,48.31
+Newcastle-under-Lyme,122314,49.17
+North Wiltshire,121747,50.06
+South Kesteven,119951,48.66
+Epping Forest,119512,48.89
+Vale of Glamorgan,119358,48.71
+Reigate & Banstead,119307,49.10
+Chester,119221,48.91
+Mid Bedfordshire,118945,49.57
+Suffolk Coastal,118681,49.10
+Horsham,118569,49.08
+Nuneaton & Bedworth,118340,49.91
+Gwynedd,117775,48.56
+Swale,117562,49.97
+Havant & Waterloo,117341,48.42
+Teignbridge,116743,48.22
+Cambridge,116701,50.13
+Vale Royal,115233,49.25
+Amber Valley,115224,49.72
+North Hertfordshire,114941,49.53
+South Ayrshire,114630,47.81
+Waverley,114133,48.49
+Broadland,113896,49.15
+Crewe & Nantwich,113670,49.80
+Breckland,113654,48.90
+Ipswich,113642,48.96
+Pembrokeshire,113597,48.78
+Vale of White Horse,112545,50.63
+Salisbury,112534,48.43
+Gedling,112194,49.01
+Eastleigh,111732,49.50
+Broxtowe,111429,49.55
+Stratford-on-Avon,111211,48.71
+South Bedfordshire,110949,49.72
+Angus,110780,48.78
+East Hampshire,110761,48.64
+East Dunbartonshire,110750,48.87
+Conway,110596,47.48
+Sevenoaks,110476,48.86
+Slough,110462,49.49
+Bracknell Forest,110092,50.62
+West Lancashire,109763,49.23
+West Wiltshire,108889,49.35
+Ashfield,108558,49.52
+Lisburn,108400,n/a
+Scarborough,108258,47.76
+Stroud,108022,49.15
+Wychavon,108009,48.93
+Waveney,107731,48.29
+Exeter,107729,49.34
+Dover,107398,48.75
+Test Valley,107182,49.47
+Gloucester,106834,49.92
+Erewash,106818,49.65
+Cheltenham,106692,49.14
+Bassetlaw,106303,49.62
+Scottish Borders,106100,48.16
